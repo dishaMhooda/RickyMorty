@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_big">18sp</dimen>
+    <dimen name="text_view_medium">15sp</dimen>
+    <dimen name="text_view_small">13sp</dimen>
+</resources>
